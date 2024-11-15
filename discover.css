@@ -1,0 +1,20 @@
+#about {
+  display: flex;
+  color: var(--text-gray);
+  gap: 1rem;
+  padding: 0;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 1200px;
+  
+}
+#about p{
+  border: solid;
+  border-radius: 1rem;
+  padding: 1rem;
+  align-items: center;
+  color: black;
+  
+}
